@@ -29,10 +29,10 @@ function Navbar(){
 
 function Hero(){
   return (
-    <header id="hero" className="bg-gradient-to-r from-sky-600 to-sky-400 text-white">
+    <header id="hero" className="bg-gradient-to-r from-blue-600 to-blue-400 text-white">
       <div className="max-w-6xl mx-auto px-4 py-24">
         <h1 className="text-4xl md:text-6xl font-extrabold">Automation that answers, schedules, and scales.</h1>
-        <p className="mt-4 text-lg text-sky-50">Manifex builds AI-powered automations — starting with your AI Receptionist.</p>
+        <p className="mt-4 text-lg text-blue-50">Manifex builds AI-powered automations — starting with your AI Receptionist.</p>
         <div className="mt-6 flex gap-3">
           <a href="#services" className="px-6 py-3 rounded-xl bg-white text-sky-700 font-semibold hover:scale-105 transition">Explore Services</a>
           <a href="#pricing" className="px-6 py-3 rounded-xl bg-sky-800 text-white font-semibold hover:scale-105 transition">See Pricing</a>
