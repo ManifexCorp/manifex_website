@@ -1,0 +1,1 @@
+# Manifex – AI Receptionist Website\n\nQuick start:\n\n```\nnpm install\nnpm run dev\n```\n\nBefore deploy: edit `src/App.tsx` to set `N8N_BASE` and (later) `PAYPAL_JS_CLIENT_ID`. Place your logo at `public/manifex-logo.png`.\n
